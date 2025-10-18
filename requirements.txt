@@ -1,0 +1,13 @@
+duckdb
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+lightgbm
+catboost
+xgboost
+shap
+matplotlib
+pyyaml
+joblib
+streamlit

@@ -1,0 +1,9 @@
+# src/config.yaml
+seed: 42
+data_csv_path: "./data/raw/nubank_synthetic.csv"
+db_path: "./artifacts/loans.duckdb"
+table_name: "bank_loan_data"
+feature_view: "v_features"
+target_col: "target"
+id_col: "id"
+n_splits: 5
